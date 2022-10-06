@@ -1,0 +1,23 @@
+12 16 Semibold
+
+13 18 Regular
+
+14 19 Medium
+14 19 Semibold
+14 19 Bold
+
+15 20 Semibold
+15 20 Extrabold
+
+16 30 Semibold
+16 22 Bold
+16 22 Extrabold
+
+32 44 Bold
+34 46 Bold
+
+
+
+
+
+
